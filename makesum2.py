@@ -1,0 +1,1 @@
+print('The required sum is as follows: ',sum(list(map(int,input('Enter the numbers separated by spaces: ').split()))))
