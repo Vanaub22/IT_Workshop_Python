@@ -19,7 +19,7 @@ def custom_sum(a,b):
     else:
         return(a+b)
 T1=tuple(input('Enter the elements of the first tuple separated by spaces:').split())
-T2=tuple(input('Enter the elements of the first tuple separated by spaces:').split())
+T2=tuple(input('Enter the elements of the second tuple separated by spaces:').split())
 if(len(T1)>len(T2)):
     T1,T2=T2,T1
 T3=[]
