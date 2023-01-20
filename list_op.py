@@ -37,7 +37,3 @@ for i in range(N):
 		result.append(float(lst1[i])+float(lst2[i]))
 result=result+extra
 print('The required resultant list is as follows:',result)
-
-
-		
-
